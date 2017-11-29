@@ -41,6 +41,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     static final int LOCATION_REQUEST_CODE = 1;
     private GoogleMap mMap;
     private FusedLocationProviderClient mFusedLocationProviderClient;
+    int test;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
