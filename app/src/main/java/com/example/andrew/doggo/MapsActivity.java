@@ -45,6 +45,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        int test = 0;
         setContentView(R.layout.activity_maps);
         mFusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this);
 
