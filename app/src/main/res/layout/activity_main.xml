@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="16dp"
+    android:showDividers="middle"
+    android:divider="@drawable/format16dp"
+    tools:context="com.kurtlemon.doggo3.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/petterImageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/dog_go_icon_logo" />
+    <Button
+        android:id="@+id/petterButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/petter_button_text"
+        android:textColor="@color/colorWhite"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:drawableStart="@drawable/ic_dog_petter"
+        android:drawableLeft="@drawable/ic_dog_petter"/>
+
+    <Button
+        android:id="@+id/walkerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/walker_button_text"
+        android:textColor="@color/colorWhite"
+        android:layout_gravity="center"
+        android:background="@color/colorPrimary"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:drawableStart="@drawable/ic_dog_walker"
+        android:drawableLeft="@drawable/ic_dog_walker"/>
+</LinearLayout>

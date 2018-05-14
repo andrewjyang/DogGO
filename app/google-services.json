@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985790321131",
+    "firebase_url": "https://doggo3-3a4a3.firebaseio.com",
+    "project_id": "doggo3-3a4a3",
+    "storage_bucket": "doggo3-3a4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985790321131:android:f42f09c74058eb4b",
+        "android_client_info": {
+          "package_name": "com.kurtlemon.doggo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985790321131-rgis4v0d0t1m982pigniffqoujv982da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kurtlemon.doggo3",
+            "certificate_hash": "ddb40f3ce2321895ad67ec36054a6d6ba7d29055"
+          }
+        },
+        {
+          "client_id": "985790321131-g89fqcbp9diknksagujk2r3mpg2vrn1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRkMKsnN6KD_0FDXoPSy3UQDMx462Jisk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985790321131-g89fqcbp9diknksagujk2r3mpg2vrn1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

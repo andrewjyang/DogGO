@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">DogGO</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_walk">Map</string>
+    <string name="title_activity_pet">Map</string>
+    <string name="action_signout">Sign Out</string>
+    <string name="petter_button_text">Find a Dog"</string>
+    <string name="walker_button_text">Go for a Walk</string>
 </resources>

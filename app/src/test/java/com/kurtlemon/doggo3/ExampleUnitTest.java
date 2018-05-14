@@ -1,4 +1,4 @@
-package com.example.andrew.doggo;
+package com.kurtlemon.doggo3;
 
 import org.junit.Test;
 
